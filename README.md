@@ -9,3 +9,4 @@ O Squad é composta por:
 -   Leonardo de Freitas
 -   João Ricardo
 -   Marcos
+-   Abnadab Castro
